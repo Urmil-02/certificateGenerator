@@ -1,0 +1,6 @@
+Git Commands to push the code
+
+git add *
+git commit -m "Initial Commit"
+git remote add origin <_Url_of_Repository_> 
+git push origin master
